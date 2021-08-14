@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.jfxtras:jfxtras-test-support:15-r2">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jfxtras/jfxtras-test-support/15-r2/jfxtras-test-support-15-r2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jfxtras/jfxtras-test-support/15-r2/jfxtras-test-support-15-r2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jfxtras/jfxtras-test-support/15-r2/jfxtras-test-support-15-r2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

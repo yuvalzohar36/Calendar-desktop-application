@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<VBox alignment="CENTER" prefHeight="417.0" prefWidth="554.0" spacing="20.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.newapp.Main">
+    <padding>
+        <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+    </padding>
+   <children>
+      <Label alignment="TOP_CENTER" prefHeight="67.0" prefWidth="204.0" text="View all events">
+         <font>
+            <Font size="16.0" />
+         </font>
+      </Label>
+      <BorderPane prefHeight="360.0" prefWidth="514.0">
+         <center>
+            <Pane prefHeight="386.0" prefWidth="514.0" BorderPane.alignment="CENTER">
+               <children>
+                  <Label fx:id="viewEvents" layoutX="201.0" layoutY="73.0" text="CurrentlyNothing" />
+               </children>
+            </Pane>
+         </center>
+      </BorderPane>
+   </children>
+</VBox>
